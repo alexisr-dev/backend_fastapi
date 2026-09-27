@@ -1,0 +1,28 @@
+# Entorno: nunca debe entrar a la imagen
+.env
+.env.*
+!.env.example
+
+# Entorno virtual y cachés de Python (se reinstalan con requirements.txt)
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Pruebas y herramientas de calidad (no hacen falta en runtime)
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Control de versiones
+.git
+.gitignore
+
+# Editores y sistema
+.idea/
+.vscode/
+Thumbs.db
+.DS_Store
