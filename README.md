@@ -509,9 +509,3 @@ Este servicio forma parte de un sistema más amplio; el resto de componentes se 
 | `frontend_restaurante` | React 19 + TypeScript + Vite | 5174 | Panel del administrador |
 | `frontend_movil_restaurante` | Flutter (Dart ^3.5.2) | — | App de meseros y cocina |
 
-<!--
-Pendiente de completar por el autor (no hay datos en el repositorio):
-- Autor / contacto / enlaces (GitHub, LinkedIn).
-- Licencia: no existe un archivo LICENSE.
-- Capturas de pantalla o demo desplegada, si se dispone de ellas.
--->
